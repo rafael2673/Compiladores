@@ -38,7 +38,7 @@ private:
 
 public:
 	Lexer();
-	
+	void Comments();
 	Token Scan();
 	void Start();
 };

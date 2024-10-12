@@ -1,6 +1,6 @@
 # compilador 
 CPP=g++
-ARGS=-c -g -std=c++17
+ARGS=-c -g
 
 # dependências
 all: expressions

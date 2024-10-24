@@ -1,0 +1,37 @@
+[
+{
+  "directory": "C:/Users/rafae/Documents/Compiladores/unidade 1/Compiladores/Lab02/Ast/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\tradutor.dir\\ast.cpp.obj -c \"C:\\Users\\rafae\\Documents\\Compiladores\\unidade 1\\Compiladores\\Lab02\\Ast\\ast.cpp\"",
+  "file": "C:/Users/rafae/Documents/Compiladores/unidade 1/Compiladores/Lab02/Ast/ast.cpp"
+},
+{
+  "directory": "C:/Users/rafae/Documents/Compiladores/unidade 1/Compiladores/Lab02/Ast/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\tradutor.dir\\checker.cpp.obj -c \"C:\\Users\\rafae\\Documents\\Compiladores\\unidade 1\\Compiladores\\Lab02\\Ast\\checker.cpp\"",
+  "file": "C:/Users/rafae/Documents/Compiladores/unidade 1/Compiladores/Lab02/Ast/checker.cpp"
+},
+{
+  "directory": "C:/Users/rafae/Documents/Compiladores/unidade 1/Compiladores/Lab02/Ast/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\tradutor.dir\\lexer.cpp.obj -c \"C:\\Users\\rafae\\Documents\\Compiladores\\unidade 1\\Compiladores\\Lab02\\Ast\\lexer.cpp\"",
+  "file": "C:/Users/rafae/Documents/Compiladores/unidade 1/Compiladores/Lab02/Ast/lexer.cpp"
+},
+{
+  "directory": "C:/Users/rafae/Documents/Compiladores/unidade 1/Compiladores/Lab02/Ast/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\tradutor.dir\\parser.cpp.obj -c \"C:\\Users\\rafae\\Documents\\Compiladores\\unidade 1\\Compiladores\\Lab02\\Ast\\parser.cpp\"",
+  "file": "C:/Users/rafae/Documents/Compiladores/unidade 1/Compiladores/Lab02/Ast/parser.cpp"
+},
+{
+  "directory": "C:/Users/rafae/Documents/Compiladores/unidade 1/Compiladores/Lab02/Ast/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\tradutor.dir\\symtable.cpp.obj -c \"C:\\Users\\rafae\\Documents\\Compiladores\\unidade 1\\Compiladores\\Lab02\\Ast\\symtable.cpp\"",
+  "file": "C:/Users/rafae/Documents/Compiladores/unidade 1/Compiladores/Lab02/Ast/symtable.cpp"
+},
+{
+  "directory": "C:/Users/rafae/Documents/Compiladores/unidade 1/Compiladores/Lab02/Ast/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\tradutor.dir\\error.cpp.obj -c \"C:\\Users\\rafae\\Documents\\Compiladores\\unidade 1\\Compiladores\\Lab02\\Ast\\error.cpp\"",
+  "file": "C:/Users/rafae/Documents/Compiladores/unidade 1/Compiladores/Lab02/Ast/error.cpp"
+},
+{
+  "directory": "C:/Users/rafae/Documents/Compiladores/unidade 1/Compiladores/Lab02/Ast/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\tradutor.dir\\tradutor.cpp.obj -c \"C:\\Users\\rafae\\Documents\\Compiladores\\unidade 1\\Compiladores\\Lab02\\Ast\\tradutor.cpp\"",
+  "file": "C:/Users/rafae/Documents/Compiladores/unidade 1/Compiladores/Lab02/Ast/tradutor.cpp"
+}
+]

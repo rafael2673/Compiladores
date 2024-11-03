@@ -338,10 +338,10 @@ While::While(Expression *e, Statement *s) :
 void While::Gen()
 {
     Expression * n = Rvalue(expr);
-    cout << "\tifFalse " << n->ToString() << " goto L" << after << endl;
     cout << 'L' << inside << ':' << endl;
+    cout << "\tifFalse " << n->ToString() << " goto L" << after << endl;
     stmt->Gen();
-    cout << "\tifTrue " << n->ToString() << " goto L" << inside << endl;
+    cout << "\tgoto L" << inside << endl;
     cout << 'L' << after << ':' << endl;
     
 }

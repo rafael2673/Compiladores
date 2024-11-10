@@ -14,7 +14,7 @@ a != b
 a > b
 a >= b
 
-123identificador
+identificador_teste1
 identificador#invalido
 
 mensagem "Cuidado com a barra invertida: \\ e aspas: \" dentro da string!"

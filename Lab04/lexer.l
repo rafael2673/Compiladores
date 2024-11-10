@@ -10,7 +10,7 @@ delim	[ \t\n]
 brancos {delim}+
 letra	[A-Za-z]
 digito	[0-9]
-id	    {letra}({letra}|{digito}|_)*
+id	    ({letra}|_){letra}*({letra}|{digito}|_)*
 num	    {digito}+(\.{digito}+)?(E[+-]?{digito}+)?
 string  \"([^"\\]|\\["\\])*\" 
 

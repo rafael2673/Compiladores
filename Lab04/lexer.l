@@ -12,7 +12,8 @@ letra	[A-Za-z]
 digito	[0-9]
 id	    ({letra}|_){letra}*({letra}|{digito}|_)*
 num	    {digito}+(\.{digito}+)?(E[+-]?{digito}+)?
-string  \"([^"\\]|\\["\\])*\" 
+string  \"([^\\"]|\\["\\])*\"  
+
 
 %%
 {brancos}	; // nenhuma ação e nenhum retorno
@@ -29,7 +30,7 @@ else		return ELSE;
 "!="		return RELOP; 
 ">"		    return RELOP;
 ">="		return RELOP;
-.           cout << YYText() << " é um token inválido!\n"; 
+.           cout << YYText() << " eh um token invalido!\n"; 
 %%
 
 // nenhuma função auxiliar é necessária

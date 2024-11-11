@@ -1,11 +1,11 @@
 while x <= 100 
     if y != 10 
         then
-        resultado "Número é diferente de 10!"
+        resultado "Numero eh diferente de 10!"
         nome "_identificadorComUnderline123"
         numero 3.14E+2
     else 
-        resultado "Número é 10"
+        resultado "Numero eh 10"
 
 a < b
 a <= b
